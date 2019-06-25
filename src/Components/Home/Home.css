@@ -1,0 +1,191 @@
+
+.logo1{
+    width: 120px;
+    height: 78px;
+    margin-left: 110px;
+} 
+.text{
+    color: #000;
+    font-size: 16px;
+    cursor: pointer;
+    padding-left: 1rem;
+  
+    width: max-content;
+}
+.footer{
+    height:120px;
+    color:white;
+    background-Color:#6d2158
+}
+#txt1{
+    padding-top: 25px;
+    padding-left: 109px;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.name{
+    display: inline-block;
+    line-height: 50px;
+    font-size: 14px
+  
+}
+.name1{
+    display: inline-block;
+    line-height: 60px;
+    font-size: 14px;
+}
+.admin{
+    color: white;
+    margin-left: 47%;
+    font-size: 24px;
+    padding-top: 8px;
+    font-family:serif;
+}
+.lst{
+    padding-left: 59px;
+    color: #000;
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 1.75
+}
+.item{
+    padding-left: 85px;
+    color: #333;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+   
+}
+.tst{
+    color: #000;
+    font-family: Roboto,sans-serif;
+    font-weight: 500;
+}
+.row{
+    margin-right: 0px;
+}
+.kv{
+    padding: 28px;
+    margin-left: 39%;
+    font-size: 21px;
+}
+.lbtn{
+    background-color: #f03690;
+    margin-left: 43%;
+    color: white;
+}
+.react-bootstrap-table-pagination-list {
+   
+    color:#f03690
+  }
+  .pagination .page-item.active .page-link{
+    background-color:#f03690
+  }
+  .pagination .page-item.active .page-link:hover{
+    background-color:#f03690
+  }
+  .pagination .page-item.active .page-link:focus{
+    background-color:#f03690
+  }
+  .btn-secondary .dropdown-toggle{
+    background-color:#f03690
+  }
+  
+  .btn-default .dropdown-toggle{
+    background-color:#f03690
+  }
+  .btn-secondary.dropdown-toggle{
+    background-color:#f03690
+  }
+  .btn-default.dropdown-toggle{
+    background-color:#f03690
+  }
+  .table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #000000;
+    font-weight: 400;
+}
+.table td {
+    font-size: 14px;
+    font-weight: 400;
+}
+.table th {
+    font-size: 14px;
+    font-weight: 700;
+}
+.btn-secondary.dropdown-toggle {
+    background-color: #f03690!important;
+}
+.btn-secondary.dropdown-toggle:hover {
+    background-color: #f03690!important;
+}
+.tst1{
+    color: #000;
+    font-family: Roboto,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    /* text-align: justify; */
+    padding: 30px;
+    background-color: #E6E6FA;
+    
+}
+.tst2{
+    font-size: 14px;
+    font-weight: 600;
+  
+}
+.dts{
+    padding: 20px;
+    max-width: 80%;
+    padding-left: 162px;
+}
+.btn-primary.dropdown-toggle {
+    background-color: #f03690 !important;
+}
+.btn-primary.dropdown-toggle:hover {
+    background-color: #f03690 !important;
+}
+.btn-primary.dropdown-toggle:focus {
+    background-color: #f03690 !important;
+}
+.btn-primary{
+    background-color: #f03690
+}
+.btn-primary:hover{
+    background-color: #f03690
+}
+.save{
+    background-color: #f03690;
+    color: white;
+}
+.addcom{
+    color: #f03690;
+    margin-top:15px
+}
+.pform{
+    margin-left: 10px;
+}
+.detail{
+    font-size: 14px;
+    font-weight: 400;
+}
+.experts{
+    background-color: #f03690;
+    height: 50px
+}
+#display-data{
+    /* margin-top:12px;
+    background: #E6E6FA; */
+    /* margin-top: 35px; */
+    /* padding: 20px; */
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 40px;
+    }
+    .details{
+        font-size: 14px;
+        font-weight: 400;
+        float: right;
+    margin-top: -10px;
+    }

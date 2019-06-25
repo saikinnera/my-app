@@ -1,0 +1,39 @@
+.my-modal {
+    width: 90vw ;   
+    max-width: 90vw;
+} 
+#data{
+    width: 250px;
+    height: 250px;
+    margin-top: 23px;
+    border-radius: 25px;
+    border-radius: 1.25rem 1.25rem 3 0;
+}
+.txt2{
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .025rem;
+    color: #0a0a0a;
+  
+}
+.txt1{
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .025rem;
+    color: #0a0a0a;
+  
+}
+.img1{
+    width: 100%;
+    height: 11.625rem;
+    border-radius: 1.25rem 1.25rem 0 0;
+}
+.card-body{
+    padding-top: 5px;
+}
+.t{
+    color: #f03690;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top:12px
+}

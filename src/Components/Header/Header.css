@@ -1,0 +1,22 @@
+
+.logo1{
+    width: 120px;
+    height: 78px;
+    margin-left: 110px;
+} 
+.text{
+    color: #000;
+    font-size: 16px;
+    cursor: pointer;
+    padding-left: 1rem;
+  
+    width: max-content;
+}
+
+.admin{
+    color: white;
+    margin-left: 47%;
+    font-size: 24px;
+    padding-top: 8px;
+    font-family:serif;
+}
